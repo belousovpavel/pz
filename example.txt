@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Изменение в main
+=======
+Изменение в feature-branch
+>>>>>>> feature-branch
